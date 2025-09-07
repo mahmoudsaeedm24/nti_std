@@ -69,4 +69,9 @@ I hope this simple message can reflect even a small part of my gratitude, and I 
 
 Wishing you continuous success, happiness, and all the wonderful things you truly deserve. """,
   ),
+  Person(name: 'Heba Ashraf', 
+  message: '''I’m truly grateful to Eng. Mohamed for teaching me Flutter.
+   His guidance, patience, and constant support made a real difference in my learning journey. 
+   I deeply appreciate the time and effort he put into helping me grow — I honestly wouldn’t have reached this point without him.
+    Thank you so much, Eng. Mohamed!'''),
 ];
