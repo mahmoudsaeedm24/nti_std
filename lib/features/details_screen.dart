@@ -146,10 +146,10 @@ class _DetailsScreenState extends State<DetailsScreen>
                 const SizedBox(height: 10),
                 Text(
                   person.message,
-                  style: TextStyle(fontSize: 6.sp),
+                  style: TextStyle(fontSize: 4.sp),
                   textAlign: TextAlign.center,
                 ),
-                SizedBox(height: 5.h),
+                SizedBox(height: 9.h),
               ],
             ),
           ),
