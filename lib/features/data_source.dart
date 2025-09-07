@@ -1,5 +1,4 @@
 import 'package:m_emad/core/color_pallete.dart';
-import 'package:m_emad/core/extensions/string_extension.dart';
 import '../core/model/person_model.dart';
 
 final List<Person> persons = [
@@ -34,8 +33,13 @@ I just wanted to take a moment to sincerely thank you, Your respectful attitude,
     name: "Haneen mohsen",
     message:
         "I would like to sincerely thank you for the great effort you put in with us throughout the course. You were always keen to explain in a simple and easy way, and that really helped me benefit and understand the framework more deeply. Honestly, you were the reason I started to love the field even more. Thank you so much for your patience, your support, and for answering all my questions. I wish you all the best in your career",
-  ),
-  Person(
+  ),Person(
+     name: "Rozan Mohamed", message:"""Behind every successful journey, there is a great mentor!
+
+We are truly blessed to have you, Eng. Mohamed Emad, as our instructor throughout this track. Your dedication, patience, and passion made the learning experience not only valuable but also inspiring.
+ You guided us with knowledge, motivated us to do better, and supported us every step of the way. Thank you for your endless effort and for being such an inspiring mentor.""" )
+
+  , Person(
     name: "Mona Zaki",
     message: """I would like to express my heartfelt gratitude to Eng. Mohamed Emad for his great effort, patience, and dedication during our Flutter training. 
 
