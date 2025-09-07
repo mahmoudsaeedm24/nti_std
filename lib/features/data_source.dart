@@ -16,5 +16,5 @@ final List<Person> persons = [
     screenColor: ColorPallete.deepOrange,
   ),
   Person(name: "mahmoud", message: "I am here", image: "download".jpg , screenColor: ColorPallete.cyan ),
-  Person(name: "Mahmoud saeed", message: "dfasdf sdfas ", image: "download".jpg, screenColor: ColorPallete.lightBlue),
+  Person(name: "Mahmoud saeed", message: "dfasdf sdf", image: "download".jpg, screenColor: ColorPallete.lightBlue),
 ];
