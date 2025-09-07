@@ -29,7 +29,7 @@ I just wanted to take a moment to sincerely thank you, Your respectful attitude,
    and perseverance—made a real difference in my perspective.
  ✨Personally, I used to focus only on the final result, but through your advice and stories I learned to be patient with myself, to trust the process, and to believe that not all great outcomes appear immediately. This lesson is something I will carry with me beyond the classroom.🌸I truly appreciate the time, effort, and sincerity you put into teaching us. I wish you continuous success, happiness, and blessings in your life.""",screenColor: ColorPallete.def)
 
-
+,
   Person(
     name: "Haneen mohsen",
     message:
