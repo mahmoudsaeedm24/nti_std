@@ -1,4 +1,5 @@
 import 'package:m_emad/core/color_pallete.dart';
+import 'package:m_emad/core/extensions/string_extension.dart';
 import '../core/model/person_model.dart';
 
 final List<Person> persons = [
@@ -78,5 +79,12 @@ Wishing you continuous success, happiness, and all the wonderful things you trul
 أحب أشكرك من قلبي على أسلوبك الراقي واحترامك الكبير، وعلى طبعك الجميل بجد أنت ساعدتني علميًا ودينيًا، وذكرتني دايمًا إن كل شيء من الله ولله، وده خلاني أجدد نيتي وأحسّ بقيمة اللي بعمله.
 ربنا يكرمك ويزيدك من فضله، أنا فعلًا استفدت كتير جدًا من وجودك ومن التجربة دي، وشوفت ناس مختلفة ما شاء الله بأخلاق كويسة ومحترمة.
 سواء كملت في التراك أو لأ، التجربة دي هتفضل مهمة جدًا بالنسبة لي.
-جزاك الله خير الجزاء في الدنيا والآخرة. """)  
+جزاك الله خير الجزاء في الدنيا والآخرة. """)  ,
+Person(name: "", message: """Dear [Eng:Mohmed Selim],
+I would like to express my sincere gratitude for your guidance, support, and dedication. Your way of teaching has inspired me and made the learning process both enjoyable and valuable. I truly appreciate the effort and time you put into helping us grow and achieve our goals.
+Thank you once again for being such an inspiring instructor.
+
+Best regards,
+[Faris Abozain]
+""", image:"fais".jpg ),
 ];
