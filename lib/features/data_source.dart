@@ -24,4 +24,10 @@ I just wanted to take a moment to sincerely thank you, Your respectful attitude,
     message:
         "شكرا يا بشمهندس حضرتك كنت خير معلم اتعلمت من حضرتك حجات كتير مش بس فمحتوى الكورس بل واتعلمت من أخلاقك. حضرت شخصية خلوقه  انا سعيد جدا  بجد انى كنت مع حضرتك  ربنا يبارك فيك واسمع عن حضرتك كل خير  .",
   ),
+
+  Person(
+    name: "Haneen mohsen",
+    message:
+        "I would like to sincerely thank you for the great effort you put in with us throughout the course. You were always keen to explain in a simple and easy way, and that really helped me benefit and understand the framework more deeply. Honestly, you were the reason I started to love the field even more. Thank you so much for your patience, your support, and for answering all my questions. I wish you all the best in your career",
+  ),
 ];
