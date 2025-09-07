@@ -67,23 +67,20 @@ Thank you for being more than just an instructor, but also a real role model. Ma
 """,
     screenColor: ColorPallete.purple,
   ),
-
   Person(
     name: 'Aya Emad',
     message: """Hello Eng. Mohamed Emad,
 
-Thanks for your effort
-I truly appreciate the time and energy you dedicate. Thank you for always being there and for inspiring me not only with knowledge, but also with your attitude, kindness, and respectful manners.
+    Thanks for your effort
+  I truly appreciate the time and energy you dedicate. Thank you for always being there and for inspiring me not only with knowledge, but also with your attitude, kindness, and respectful manners.
 
-I have also learned a lot from the life lessons and advice you shared with me. Those experiences and stories have truly made a lasting difference in my life.
+  I have also learned a lot from the life lessons and advice you shared with me. Those experiences and stories have truly made a lasting difference in my life.
 
-I especially value how you take the time to walk around, check on each student, and personally help solve their problems. That care and attention make a huge impact.
+    And I promise, once I get my first job, you will be the very first person I tell — because you have played such an important role in preparing and motivating me.
 
-And I promise, once I get my first job, you will be the very first person I tell — because you have played such an important role in preparing and motivating me.
+  I hope this simple message can reflect even a small part of my gratitude, and I sincerely wish it brings a smile to your face.
 
-I hope this simple message can reflect even a small part of my gratitude, and I sincerely wish it brings a smile to your face.
-
-Wishing you continuous success, happiness, and all the wonderful things you truly deserve. """,
+    Wishing you continuous success, happiness, and all the wonderful things you truly deserve. """
   ),
   Person(
     name: 'Heba Ashraf',
@@ -111,4 +108,8 @@ Best regards,
 """,
     image: "faris".jpg,
   ),
+  Person(
+      name: 'Hager', message: ''''I would like to sincerely thank you for all your effort and dedication during our Flutter course. You were always respectful, kind, and supportive, which made the learning experience both enjoyable and valuable. I truly appreciate the knowledge you shared with us and the way you guided us with patience and professionalism.
+
+Wishing you continued success and all the best in your teaching journey.'''),
 ];
