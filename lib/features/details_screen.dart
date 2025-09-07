@@ -114,7 +114,7 @@ class _DetailsScreenState extends State<DetailsScreen>
         backgroundColor: AppColors.getColor(colorPallte: person.screenColor),
       ),
       body: SingleChildScrollView(
-        physics: AlwaysScrollableScrollPhysics(parent: BouncingScrollPhysics()),
+        physics:  BouncingScrollPhysics(),
         child: Container(
           padding: EdgeInsets.all(20),
           alignment: Alignment.center,
@@ -126,7 +126,7 @@ class _DetailsScreenState extends State<DetailsScreen>
               children: [
                 person.image != null
                     ? ClipRRect(
-                        borderRadius: BorderRadiusGeometry.circular(16),
+                        borderRadius: BorderRadius.circular(16),
                         child: Image.asset(
                           person.image!,
                           height: 40.w,

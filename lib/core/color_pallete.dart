@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-enum ColorPallete { pink, lightGreen, cyan, lightBlue, deepOrange, def}
+enum ColorPallete { pink, lightGreen, cyan, lightBlue, deepOrange, def, }
 
 class AppColors {
   AppColors._();
