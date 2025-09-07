@@ -5,9 +5,13 @@ import '../core/model/person_model.dart';
 final List<Person> persons = [
   Person(
     name: "Mahmoud saeed",
-    message: "dfasdf sdfasd ",
-    image: "download".jpg,
-    screenColor: ColorPallete.lightBlue,
+    message: """ ✨ A Message of Gratitude and Appreciation ✨
+I would like to sincerely thank Eng. Mohamed Emad for his tremendous effort in teaching us and for never falling short in any aspect. He truly gave his best and even more 🌹.
+I deeply appreciate his high morals, respectful attitude towards each one of us, and his continuous encouragement to always give our maximum effort. Most importantly, his constant reminders to keep God in our hearts ❤️.
+May Allah reward him abundantly, bless his knowledge, and place all his efforts in the scale of his good
+""",
+    // image: null,
+    screenColor: ColorPallete.cyan,
   ),
   Person(
     name: "Rawan Magdy",
