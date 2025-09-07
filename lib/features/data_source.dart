@@ -74,4 +74,9 @@ Wishing you continuous success, happiness, and all the wonderful things you trul
    His guidance, patience, and constant support made a real difference in my learning journey. 
    I deeply appreciate the time and effort he put into helping me grow — I honestly wouldn’t have reached this point without him.
     Thank you so much, Eng. Mohamed!'''),
+  Person(name: "Fatma Mohammed", message:"""
+أحب أشكرك من قلبي على أسلوبك الراقي واحترامك الكبير، وعلى طبعك الجميل بجد أنت ساعدتني علميًا ودينيًا، وذكرتني دايمًا إن كل شيء من الله ولله، وده خلاني أجدد نيتي وأحسّ بقيمة اللي بعمله.
+ربنا يكرمك ويزيدك من فضله، أنا فعلًا استفدت كتير جدًا من وجودك ومن التجربة دي، وشوفت ناس مختلفة ما شاء الله بأخلاق كويسة ومحترمة.
+سواء كملت في التراك أو لأ، التجربة دي هتفضل مهمة جدًا بالنسبة لي.
+جزاك الله خير الجزاء في الدنيا والآخرة. """)  
 ];
