@@ -29,4 +29,40 @@ I just wanted to take a moment to sincerely thank you, Your respectful attitude,
    and perseverance—made a real difference in my perspective.
  ✨Personally, I used to focus only on the final result, but through your advice and stories I learned to be patient with myself, to trust the process, and to believe that not all great outcomes appear immediately. This lesson is something I will carry with me beyond the classroom.🌸I truly appreciate the time, effort, and sincerity you put into teaching us. I wish you continuous success, happiness, and blessings in your life.""",screenColor: ColorPallete.def)
 
+
+  Person(
+    name: "Haneen mohsen",
+    message:
+        "I would like to sincerely thank you for the great effort you put in with us throughout the course. You were always keen to explain in a simple and easy way, and that really helped me benefit and understand the framework more deeply. Honestly, you were the reason I started to love the field even more. Thank you so much for your patience, your support, and for answering all my questions. I wish you all the best in your career",
+  ),
+  Person(
+    name: "Mona Zaki",
+    message: """I would like to express my heartfelt gratitude to Eng. Mohamed Emad for his great effort, patience, and dedication during our Flutter training. 
+
+Your way of teaching was not only clear and practical but also inspiring,which made me more motivated to continue in this field.
+  I truly appreciate the time you gave us, your respect towards everyone, and your continuous encouragement to always do our best. 
+
+Thank you for being more than just an instructor, but also a real role model. May Allah bless you, increase your knowledge, and reward you abundantly for every effort you put into guiding us. 🌸
+""",
+    screenColor: ColorPallete.purple,
+  ),
+
+
+  Person(
+    name: 'Aya Emad',
+    message: """Hello Eng. Mohamed Emad,
+
+Thanks for your effort
+I truly appreciate the time and energy you dedicate. Thank you for always being there and for inspiring me not only with knowledge, but also with your attitude, kindness, and respectful manners.
+
+I have also learned a lot from the life lessons and advice you shared with me. Those experiences and stories have truly made a lasting difference in my life.
+
+I especially value how you take the time to walk around, check on each student, and personally help solve their problems. That care and attention make a huge impact.
+
+And I promise, once I get my first job, you will be the very first person I tell — because you have played such an important role in preparing and motivating me.
+
+I hope this simple message can reflect even a small part of my gratitude, and I sincerely wish it brings a smile to your face.
+
+Wishing you continuous success, happiness, and all the wonderful things you truly deserve. """,
+  ),
 ];
