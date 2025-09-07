@@ -46,7 +46,7 @@ class _DetailsScreenState extends State<DetailsScreen>
 
   void startTimer() {
     _timer?.cancel();
-    _timer = Timer.periodic(const Duration(seconds: 8), (timer) {
+    _timer = Timer.periodic(const Duration(seconds: 4), (timer) {
       nextPerson(auto: true);
     });
     setState(() {
@@ -114,7 +114,7 @@ class _DetailsScreenState extends State<DetailsScreen>
         backgroundColor: AppColors.getColor(colorPallte: person.screenColor),
       ),
       body: SingleChildScrollView(
-        physics:  BouncingScrollPhysics(),
+        physics: BouncingScrollPhysics(),
         child: Container(
           padding: EdgeInsets.all(20),
           alignment: Alignment.center,
@@ -149,6 +149,7 @@ class _DetailsScreenState extends State<DetailsScreen>
                   style: TextStyle(fontSize: 6.sp),
                   textAlign: TextAlign.center,
                 ),
+                SizedBox(height: 5.h),
               ],
             ),
           ),
