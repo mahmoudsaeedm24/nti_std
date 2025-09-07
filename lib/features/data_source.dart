@@ -15,6 +15,23 @@ May Allah reward him abundantly, bless his knowledge, and place all his efforts 
     screenColor: ColorPallete.cyan,
   ),
   Person(
+    name: "Toka Medhat",
+    message: '''He who does not thank people does not thank God
+
+    This is the least thing we can do to express our thanks and gratitude to you.
+
+I am truly very grateful for everything you did with us throughout the training period.
+Your effort, patience, and care to deliver the information to us in a simple and clear way made a big difference for us, and also made the experience very enjoyable and beneficial.
+You were not only transferring knowledge to us, but you were also always encouraging us to love the field and continue in it.
+
+Really Your advices made a big difference to me.
+
+May God bless you, your life, and your efforts, increase you from His grace and bounty, and always make you a reason for spreading knowledge to others
+
+''',
+    screenColor: ColorPallete.purple,
+  ),
+  Person(
     name: "Rawan Magdy",
     message: """Good morning Eng Mohamed Emad ,
 I just wanted to take a moment to sincerely thank you, Your respectful attitude, the way you explain things, and how you treat us as students have really left a positive impact on me. Your teaching style is clear and inspiring, and I have truly benefited and learned a lot from you. The religious stories you shared reminded me of one of my old teachers who had the same respectful and kind approach. Your words and manner have touched me and left a good mark in my life. I really hope that one day I will have the chance to work with you in the future and I wish you good in your life and happiness always and success""",
