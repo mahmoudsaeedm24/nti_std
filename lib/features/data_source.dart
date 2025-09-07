@@ -48,6 +48,19 @@ I just wanted to take a moment to sincerely thank you, Your respectful attitude,
         "I would like to sincerely thank you for the great effort you put in with us throughout the course. You were always keen to explain in a simple and easy way, and that really helped me benefit and understand the framework more deeply. Honestly, you were the reason I started to love the field even more. Thank you so much for your patience, your support, and for answering all my questions. I wish you all the best in your career",
   ),
   Person(
+    name: "Mona Zaki",
+    message: """I would like to express my heartfelt gratitude to Eng. Mohamed Emad for his great effort, patience, and dedication during our Flutter training. 
+
+Your way of teaching was not only clear and practical but also inspiring,which made me more motivated to continue in this field.
+  I truly appreciate the time you gave us, your respect towards everyone, and your continuous encouragement to always do our best. 
+
+Thank you for being more than just an instructor, but also a real role model. May Allah bless you, increase your knowledge, and reward you abundantly for every effort you put into guiding us. 🌸
+""",
+    screenColor: ColorPallete.purple,
+  ),
+
+
+  Person(
     name: 'Aya Emad',
     message: """Hello Eng. Mohamed Emad,
 
