@@ -100,4 +100,17 @@ Best regards,
 """,
     image: "faris".jpg,
   ),
+  Person(
+    name: "Remon Zarif",
+    message: """Dear Eng. Mohamed Emad,  
+
+I would be lying if I said I only learned from you on the technical side. What really touched me was your character, your values, and the way you always treated us with respect and kindness.  
+
+You showed me that knowledge alone is not enough — what makes it special is the morals, patience, and good intentions behind it. These are lessons I will always remember and carry with me in life.  
+
+I’m truly thankful for your words, your advice, and the care you gave us. Thank you for being more than just an instructor, but a role model who left an impact on both my mind and heart.  
+
+May Allah bless you, reward you, and grant you happiness and success in everything you do.   
+""",
+  ),
 ];
