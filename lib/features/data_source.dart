@@ -30,4 +30,21 @@ I just wanted to take a moment to sincerely thank you, Your respectful attitude,
     message:
         "I would like to sincerely thank you for the great effort you put in with us throughout the course. You were always keen to explain in a simple and easy way, and that really helped me benefit and understand the framework more deeply. Honestly, you were the reason I started to love the field even more. Thank you so much for your patience, your support, and for answering all my questions. I wish you all the best in your career",
   ),
+  Person(
+    name: 'Aya Emad',
+    message: """Hello Eng. Mohamed Emad,
+
+Thanks for your effort
+I truly appreciate the time and energy you dedicate. Thank you for always being there and for inspiring me not only with knowledge, but also with your attitude, kindness, and respectful manners.
+
+I have also learned a lot from the life lessons and advice you shared with me. Those experiences and stories have truly made a lasting difference in my life.
+
+I especially value how you take the time to walk around, check on each student, and personally help solve their problems. That care and attention make a huge impact.
+
+And I promise, once I get my first job, you will be the very first person I tell — because you have played such an important role in preparing and motivating me.
+
+I hope this simple message can reflect even a small part of my gratitude, and I sincerely wish it brings a smile to your face.
+
+Wishing you continuous success, happiness, and all the wonderful things you truly deserve. """,
+  ),
 ];
