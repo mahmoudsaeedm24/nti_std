@@ -56,23 +56,15 @@ Thank you for being more than just an instructor, but also a real role model. Ma
 """,
     screenColor: ColorPallete.purple,
   ),
-
   Person(
     name: 'Aya Emad',
     message: """Hello Eng. Mohamed Emad,
 
-Thanks for your effort
-I truly appreciate the time and energy you dedicate. Thank you for always being there and for inspiring me not only with knowledge, but also with your attitude, kindness, and respectful manners.
+Thank you for your constant support, guidance, and kindness. I truly appreciate your time, effort, and the life lessons you’ve shared, which have made a lasting impact on me.
 
-I have also learned a lot from the life lessons and advice you shared with me. Those experiences and stories have truly made a lasting difference in my life.
+I especially value how you personally help and check on each student—it means a lot. Once I get my first job, you’ll be the first person I share it with, as you’ve greatly motivated and prepared me.
 
-I especially value how you take the time to walk around, check on each student, and personally help solve their problems. That care and attention make a huge impact.
-
-And I promise, once I get my first job, you will be the very first person I tell — because you have played such an important role in preparing and motivating me.
-
-I hope this simple message can reflect even a small part of my gratitude, and I sincerely wish it brings a smile to your face.
-
-Wishing you continuous success, happiness, and all the wonderful things you truly deserve. """,
+Wishing you continued success, happiness, and all the wonderful things you deserve."""
   ),
   Person(
     name: 'Heba Ashraf',
@@ -100,14 +92,8 @@ Best regards,
 """,
     image: "faris".jpg,
   ),
-  Person(name:"Remon Zarif" ,message: """Dear Eng. Mohamed Emad,  
+  Person(
+      name: 'Hager', message: '''I would like to sincerely thank you for all your effort and dedication during our Flutter course. You were always respectful, kind, and supportive, which made the learning experience both enjoyable and valuable. I truly appreciate the knowledge you shared with us and the way you guided us with patience and professionalism.
 
-I would be lying if I said I only learned from you on the technical side. What really touched me was your character, your values, and the way you always treated us with respect and kindness.  
-
-You showed me that knowledge alone is not enough — what makes it special is the morals, patience, and good intentions behind it. These are lessons I will always remember and carry with me in life.  
-
-I’m truly thankful for your words, your advice, and the care you gave us. Thank you for being more than just an instructor, but a role model who left an impact on both my mind and heart .  
-
-May Allah bless you, reward you, and grant you happiness and success in everything you do.   
-"""),
+Wishing you continued success and all the best in your teaching journey.'''),
 ];
