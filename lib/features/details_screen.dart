@@ -1,6 +1,7 @@
 import 'dart:async';
 
 import 'package:flutter/material.dart';
+import 'package:m_emad/core/color_pallete.dart';
 import 'package:m_emad/core/extensions/num_extension.dart';
 import 'package:m_emad/core/model/person_model.dart';
 
@@ -107,10 +108,10 @@ class _DetailsScreenState extends State<DetailsScreen>
     final person = widget.persons[currentIndex];
 
     return Scaffold(
-      backgroundColor: person.screenColor,
+      backgroundColor: AppColors.getColor(colorPallte: person.screenColor),
       appBar: AppBar(
         title: Text(person.name),
-        backgroundColor: person.screenColor,
+        backgroundColor: AppColors.getColor(colorPallte: person.screenColor),
       ),
       body: SingleChildScrollView(
         physics: AlwaysScrollableScrollPhysics(parent: BouncingScrollPhysics()),

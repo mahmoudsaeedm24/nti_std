@@ -1,15 +1,15 @@
-import 'package:flutter/material.dart';
+import 'package:m_emad/core/color_pallete.dart';
 
 class Person {
   final String name;
   final String? image;
   final String message;
-  final Color screenColor;
+  final ColorPallete screenColor;
 
   Person({
     required this.name,
     this.image,
-    this.screenColor = const Color(0xff00ADB5),
+    this.screenColor = ColorPallete.def,
     required this.message,
   });
 }
