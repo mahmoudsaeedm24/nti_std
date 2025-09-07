@@ -1,6 +1,5 @@
 import 'package:m_emad/core/color_pallete.dart';
 import 'package:m_emad/core/extensions/string_extension.dart';
-
 import '../core/model/person_model.dart';
 
 final List<Person> persons = [
@@ -17,5 +16,5 @@ final List<Person> persons = [
     screenColor: ColorPallete.deepOrange,
   ),
   Person(name: "mahmoud", message: "I am here", image: "download".jpg , screenColor: ColorPallete.cyan ),
-  Person(name: "Mahmoud saeed", message: "dfasdf sdfasd ", image: "download".jpg, screenColor: ColorPallete.lightBlue),
+  Person(name: "Mahmoud saeed", message: "dfasdf sdfas ", image: "download".jpg, screenColor: ColorPallete.lightBlue),
 ];
