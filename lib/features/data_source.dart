@@ -24,4 +24,9 @@ I just wanted to take a moment to sincerely thank you, Your respectful attitude,
     message:
         "شكرا يا بشمهندس حضرتك كنت خير معلم اتعلمت من حضرتك حجات كتير مش بس فمحتوى الكورس بل واتعلمت من أخلاقك. حضرت شخصية خلوقه  انا سعيد جدا  بجد انى كنت مع حضرتك  ربنا يبارك فيك واسمع عن حضرتك كل خير  .",
   ),
+  Person(name: "Gehad Wael",
+      message: """ ❤️With respect, Eng. Mohamed Emad, I want to express my heartfelt gratitude to you. You were not only a great instructor who explained the course with clarity,  but also a true mentor who shared life lessons that touched me deeply. Your respectful character and the values you always reflect—patience, ethics,
+   and perseverance—made a real difference in my perspective.
+ ✨Personally, I used to focus only on the final result, but through your advice and stories I learned to be patient with myself, to trust the process, and to believe that not all great outcomes appear immediately. This lesson is something I will carry with me beyond the classroom.🌸I truly appreciate the time, effort, and sincerity you put into teaching us. I wish you continuous success, happiness, and blessings in your life.""",screenColor: ColorPallete.def)
+
 ];
