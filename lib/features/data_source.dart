@@ -149,6 +149,7 @@ Best regards,
     name: 'Youssef Elgmmal',
     message: """
 حضرتك كنت لينا اخ قبل متكون instructor ، واحنا سعداء جدا ان NTI وفرتلنا بشمهندس زى حضرتك ♥""",
+    image: "youssef".jpg
   ),
 
   Person(
