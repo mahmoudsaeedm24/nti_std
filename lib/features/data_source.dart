@@ -51,7 +51,7 @@ I just wanted to take a moment to sincerely thank you, Your respectful attitude,
   Person(
     name: "Mahmoud Abu-zaid",
     message:
-        "شكرا يا بشمهندس حضرتك كنت خير معلم اتعلمت من حضرتك حجات كتير مش بس فمحتوى الكورس بل واتعلمت من أخلاقك. حضرت شخصية خلوقه  انا سعيد جدا  بجد انى كنت مع حضرتك  ربنا يبارك فيك واسمع عن حضرتك كل خير  .",
+        "شكرا يا بشمهندس  اتعلمت من حضرتك حجات كتير مش بس فمحتوى الكورس .   ربنا يبارك فيك ويجازيك عنا كل خير   .",
   ),
   Person(
     name: "Gehad Wael",
@@ -141,7 +141,7 @@ Best regards,
         "I’m really grateful for your effort and dedication throughout the training. Your way of teaching made complex topics much easier to understand, and your support motivated me to push myself further. It was a great experience learning from you, and I truly appreciate the knowledge and inspiration you shared.",
   ),
   Person(
-    name: 'Youssef Algmmal',
+    name: 'Youssef Elgmmal',
     message: """
 حضرتك كنت لينا اخ قبل متكون instructor ، واحنا سعداء جدا ان NTI وفرتلنا بشمهندس زى حضرتك ♥""",
   ),
