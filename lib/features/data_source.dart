@@ -25,16 +25,12 @@ And if the only thing I took away from NTI was meeting a beautiful and delightfu
     image: "abomousa".jpg,
     screenColor: ColorPallete.cyan,
   ),
-  Person(name:"Remon Zarif" ,message: """Dear Eng. Mohamed Emad,  
-
-I would be lying if I said I only learned from you on the technical side. What really touched me was your character, your values, and the way you always treated us with respect and kindness.  
-
-You showed me that knowledge alone is not enough — what makes it special is the morals, patience, and good intentions behind it. These are lessons I will always remember and carry with me in life.  
-
-I’m truly thankful for your words, your advice, and the care you gave us. Thank you for being more than just an instructor, but a role model who left an impact on both my mind and heart .  
-
-May Allah bless you, reward you, and grant you happiness and success in everything you do.   
-"""),
+  Person(
+    name: "Remon Zarif",
+    message: """Dear Eng Mohamed Emad,  
+I would be lying if I said I only learned from you on the technical side. What really touched me was your character, your values, and the way you always treated us with respect and kindness.You showed me that knowledge alone is not enough — what makes it special is the morals, patience, and good intentions behind it. These are lessons I will always remember and carry with me in life.I’m truly thankful for your words, your advice, and the care you gave us. Thank you for being more than just an instructor, but a role model who left an impact on both my mind and heart . May Allah bless you, reward you, and grant you happiness and success in everything you do.   
+""",
+  ),
 
   Person(
     name: "Toka Medhat",
@@ -132,15 +128,14 @@ Best regards,
     image: "faris".jpg,
   ),
   Person(
-    name:"nada nasser",
+    name: "nada nasser",
     message: """Dear Eng. Mohammed Emad,
 
     I would like to sincerely thank you for all the effort, patience, and dedication you have shown throughout our Flutter sessions. Your clear explanations, supportive guidance, and respectful attitude made the learning experience truly valuable and inspiring. I deeply appreciate the time and energy you put into helping us grow, both technically and personally.
 
-   Grateful for your mentorship and wishing you continued success."""
-
-  )
-  ,Person(
+   Grateful for your mentorship and wishing you continued success.""",
+  ),
+  Person(
     name: 'Hager',
     message:
         '''I would like to sincerely thank you for all your effort and dedication during our Flutter course. You were always respectful, kind, and supportive, which made the learning experience both enjoyable and valuable. I truly appreciate the knowledge you shared with us and the way you guided us with patience and professionalism.Wishing you continued success and all the best in your teaching journey.''',
@@ -158,10 +153,7 @@ Best regards,
 
   Person(
     name: " mohamed elgendy ",
-    message:" شكراً يا هندسة محمد على الوقت الجميل والمجهود الكبير! اتعلمنا منك حاجتين مهمتين: شق تقني احترافي وشق خلقي راقي من إنسان قليل زيك قابلناه قبل كده. حضورك ودعمك خلانا نتعلم أكتر ونستفيد فعلياً، وكمان ضحكتك وروحك الطيبة خلت الجو ممتع ومفيد في نفس الوقت. إن شاء الله يكون فيه تواصل مستمر بعد التدريب، ونستفيد من خبرتك دايمًا. 🙏💪,",
-     ),
-  
-  
+    message:
+        " شكراً يا هندسة محمد على الوقت الجميل والمجهود الكبير! اتعلمنا منك حاجتين مهمتين: شق تقني احترافي وشق خلقي راقي من إنسان قليل زيك قابلناه قبل كده. حضورك ودعمك خلانا نتعلم أكتر ونستفيد فعلياً، وكمان ضحكتك وروحك الطيبة خلت الجو ممتع ومفيد في نفس الوقت. إن شاء الله يكون فيه تواصل مستمر بعد التدريب، ونستفيد من خبرتك دايمًا. 🙏💪,",
+  ),
 ];
-
-
