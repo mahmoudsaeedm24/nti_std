@@ -35,7 +35,7 @@ class HomeScreen extends StatelessWidget {
               decoration: BoxDecoration(
                 color: AppColors.getColor(
                   colorPallte:
-                      ColorPallete.values[(index) % ColorPallete.values.length],
+                      ColorPallete.values[(index != ColorPallete.values.length-1 ? index : 0) % ColorPallete.values.length],
                 ),
 
                 borderRadius: BorderRadius.circular(16),
@@ -43,7 +43,7 @@ class HomeScreen extends StatelessWidget {
               alignment: Alignment.center,
               child: Text(
                 persons[index].name,
-                style: TextStyle(fontSize: 3.sp, color: Colors.white),
+                style: TextStyle(fontSize: 5.sp, color: Colors.white),
               ),
             ),
           );
