@@ -15,8 +15,8 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       onGenerateRoute: onGenerateRoute,
       debugShowCheckedModeBanner: false,
+      themeMode: ThemeMode.light,
       theme: ThemeData(
-        fontFamily: 'Cairo',
         appBarTheme: AppBarTheme(
           centerTitle: true,
           elevation: 0,
