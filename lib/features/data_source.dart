@@ -25,6 +25,12 @@ And if the only thing I took away from NTI was meeting a beautiful and delightfu
     image: "abomousa".jpg,
     screenColor: ColorPallete.cyan,
   ),
+  Person(
+    name: "Remon Zarif",
+    message: """Dear Eng Mohamed Emad,
+I would be lying if I said I only learned from you on the technical side. What really touched me was your character, your values, and the way you always treated us with respect and kindness.You showed me that knowledge alone is not enough — what makes it special is the morals, patience, and good intentions behind it. These are lessons I will always remember and carry with me in life.I’m truly thankful for your words, your advice, and the care you gave us. Thank you for being more than just an instructor, but a role model who left an impact on both my mind and heart . May Allah bless you, reward you, and grant you happiness and success in everything you do.   
+""",
+  ),
 
   Person(
     name: "Toka Medhat",
@@ -141,7 +147,7 @@ Best regards,
         "I’m really grateful for your effort and dedication throughout the training. Your way of teaching made complex topics much easier to understand, and your support motivated me to push myself further. It was a great experience learning from you, and I truly appreciate the knowledge and inspiration you shared.",
   ),
   Person(
-    name: 'Youssef Algmmal',
+    name: 'Youssef Elgmmal',
     message: """
 حضرتك كنت لينا اخ قبل متكون instructor ، واحنا سعداء جدا ان NTI وفرتلنا بشمهندس زى حضرتك ♥""",
   ),
@@ -152,8 +158,11 @@ Best regards,
      ),
 
   Person(name: "Malek Elnabawy", message: "Professor Mohammed Emad Selim, although it wouldn't do him justice to merely call him a professor, is an idol... a tutor... a father figure... a friend... and most of all, someone I look up to with the utmost admiration. Thanks for being the adorable, lovely, wonderful human being you are, sir. I find myself in awe, humbled, and overwhelmed in the presence of such a great man.")
+
   
-  
+    message:
+        " شكراً يا هندسة محمد على الوقت الجميل والمجهود الكبير! اتعلمنا منك حاجتين مهمتين: شق تقني احترافي وشق خلقي راقي من إنسان قليل زيك قابلناه قبل كده. حضورك ودعمك خلانا نتعلم أكتر ونستفيد فعلياً، وكمان ضحكتك وروحك الطيبة خلت الجو ممتع ومفيد في نفس الوقت. إن شاء الله يكون فيه تواصل مستمر بعد التدريب، ونستفيد من خبرتك دايمًا. 🙏💪,",
+  ),
 ];
 
 
