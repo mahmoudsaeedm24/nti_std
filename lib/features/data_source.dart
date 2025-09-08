@@ -160,9 +160,7 @@ Best regards,
   Person(name: "Malek Elnabawy", message: "Professor Mohammed Emad Selim, although it wouldn't do him justice to merely call him a professor, is an idol... a tutor... a father figure... a friend... and most of all, someone I look up to with the utmost admiration. Thanks for being the adorable, lovely, wonderful human being you are, sir. I find myself in awe, humbled, and overwhelmed in the presence of such a great man.")
 
   
-    message:
-        " شكراً يا هندسة محمد على الوقت الجميل والمجهود الكبير! اتعلمنا منك حاجتين مهمتين: شق تقني احترافي وشق خلقي راقي من إنسان قليل زيك قابلناه قبل كده. حضورك ودعمك خلانا نتعلم أكتر ونستفيد فعلياً، وكمان ضحكتك وروحك الطيبة خلت الجو ممتع ومفيد في نفس الوقت. إن شاء الله يكون فيه تواصل مستمر بعد التدريب، ونستفيد من خبرتك دايمًا. 🙏💪,",
-  ),
+
 ];
 
 
