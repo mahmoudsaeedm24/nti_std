@@ -13,6 +13,15 @@ final List<Person> persons = [
     image: "mahmoud_saeed".jpg,
     screenColor: ColorPallete.cyan,
   ),
+
+  Person(
+    name: "Mahmoud Reda ",
+    message: """
+     حابب أشكر حضرتك يا بشمهندس محمد على كل حاجة قدمتهالنا خلال الفترة اللي فاتت. حضرتك كنت لينا خير معلم خُلقًا وعِلمًا ودينًا، واتعلمنا من حضرتك مش بس كورس ، لكن كمان اتعلمنا إزاي نكون ملتزمين ونحافظ على أخلاقنا ونتعامل مع المواقف صح. أسلوب حضرتك في الشرح وتعاملك معانا فرق معانا جدًا، وخلانا نحب التراك .
+    ربنا يجازي حضرتك كل خير ويباركلك في علمك وصحتك، ويجازيك خير علي تعب حضرتك معانا وإن شاء الله يكتبلك التوفيق في كل خطوة.
+""",
+    screenColor: ColorPallete.lightBlue,
+  ),
   Person(
     name: "Ahmed Abomousa",
     message: """ ✨ A Message of Gratitude and Appreciation ✨
