@@ -80,4 +80,9 @@ Best regards,
     message:
         '''I would like to sincerely thank you for all your effort and dedication during our Flutter course. You were always respectful, kind, and supportive, which made the learning experience both enjoyable and valuable. I truly appreciate the knowledge you shared with us and the way you guided us with patience and professionalism.Wishing you continued success and all the best in your teaching journey.''',
   ),
+  Person(
+    name: 'Youssef Algmmal',
+    message: """
+حضرتك كنت لينا اخ قبل متكون instructor ، واحنا سعداء جدا ان NTI وفرتلنا بشمهندس زى حضرتك ♥"""
+  ),
 ];
