@@ -13,6 +13,19 @@ Thanks Eng Mohamed Emad ⭐
     screenColor: ColorPallete.cyan,
   ),
   Person(
+    name: "Ahmed Abomousa",
+    message: """ ✨ A Message of Gratitude and Appreciation ✨
+
+When I first joined NTI, I didn’t expect to gain much in terms of knowledge and learning. But Alhamdulillah, Allah blessed me with meeting you, and I benefited from you greatly — scientifically, morally, and ethically. May Allah bless you and grant you success, Insha’Allah.
+
+And if the only thing I took away from NTI was meeting a beautiful and delightful soul like yours, that alone would be more than enough for me. Thank you so much, and may Allah grant you success in all that lies ahead.
+""",
+    // image: null,
+     image: "abomousa".jpg,
+    screenColor: ColorPallete.cyan,
+  ),
+
+  Person(
     name: "Toka Medhat",
     message: '''He who does not thank people does not thank God
 
