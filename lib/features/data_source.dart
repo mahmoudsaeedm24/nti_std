@@ -6,10 +6,10 @@ final List<Person> persons = [
   Person(
     name: "Mahmoud saeed",
     message: """ ✨ A Message of Gratitude and Appreciation ✨
-I would like to sincerely thank Eng/ Mohamed Emad for his tremendous effort in teaching us and for never falling short in any aspect. He truly gave his best and even more 🌹.I deeply appreciate his high morals, respectful attitude towards each one of us, and his continuous encouragement to always give our maximum effort. Most importantly, his constant reminders to keep God in our hearts ❤️.May Allah reward him abundantly, bless his knowledge, and place all his efforts in the scale of his good, 
-بارك الله فيك
+I would like to sincerely thank Engineer Mohamed Emad for his great effort, dedication, and respect towards all of us during the training. He made sure that each one of us fully understood every detail, and he always reminded us of God with kindness and sincerity.Words are never enough to express our gratitude. You are truly a role model of knowledge, commitment, and high morals. May God bless you and grant you success always.
+Thanks Eng Mohamed Emad ⭐
 """,
-    // image: null,
+    image: "mahmoud_saeed".jpg,
     screenColor: ColorPallete.cyan,
   ),
   Person(

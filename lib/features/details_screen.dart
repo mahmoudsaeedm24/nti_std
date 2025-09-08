@@ -5,6 +5,11 @@ import 'package:m_emad/core/color_pallete.dart';
 import 'package:m_emad/core/extensions/num_extension.dart';
 import 'package:m_emad/core/model/person_model.dart';
 
+bool isArabicText(String text) {
+  final arabicRegex = RegExp(r'[\u0600-\u06FF]');
+  return arabicRegex.hasMatch(text);
+}
+
 class DetailsScreen extends StatefulWidget {
   final List<Person> persons;
   final int currentIndex;
@@ -155,6 +160,7 @@ class _DetailsScreenState extends State<DetailsScreen>
                         '$p.',
                         style: TextStyle(fontSize: 4.sp),
                         textAlign: TextAlign.justify,
+                        locale: isArabicText(p) ? Locale('ar') : Locale('en'),
                       ),
                     );
                   }).toList(),
@@ -203,6 +209,7 @@ class _DetailsScreenState extends State<DetailsScreen>
           ],
         ),
       ),
+
       floatingActionButtonLocation: FloatingActionButtonLocation.centerFloat,
     );
   }
