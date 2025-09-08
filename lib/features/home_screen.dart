@@ -34,8 +34,8 @@ class HomeScreen extends StatelessWidget {
             child: Container(
               decoration: BoxDecoration(
                 color: AppColors.getColor(
-                  colorPallte:
-                      ColorPallete.values[(index != ColorPallete.values.length-1 ? index : 0) % ColorPallete.values.length],
+                  colorPallte: ColorPallete
+                      .values[index % (ColorPallete.values.length - 1)],
                 ),
 
                 borderRadius: BorderRadius.circular(16),
