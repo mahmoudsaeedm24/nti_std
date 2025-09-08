@@ -21,7 +21,7 @@ When I first joined NTI, I didn’t expect to gain much in terms of knowledge an
 And if the only thing I took away from NTI was meeting a beautiful and delightful soul like yours, that alone would be more than enough for me. Thank you so much, and may Allah grant you success in all that lies ahead.
 """,
     // image: null,
-     image: "abomousa".jpg,
+    image: "abomousa".jpg,
     screenColor: ColorPallete.cyan,
   ),
 
@@ -67,6 +67,21 @@ I just wanted to take a moment to sincerely thank you, Your respectful attitude,
     name: "Rozan Mohamed",
     message: """Behind every successful journey, there is a great mentor!
 We are truly blessed to have you, Eng/. Mohamed Emad, as our instructor throughout this track. Your dedication, patience, and passion made the learning experience not only valuable but also inspiring. You guided us with knowledge, motivated us to do better, and supported us every step of the way. Thank you for your endless effort and for being such an inspiring mentor.""",
+  ),
+  Person(
+    name: "Alaa Walid",
+    message:
+        """Dear Engineer, I want to truly thank you from my heart for all the effort and time you gave us during the training. You were not just an instructor who explains content, but a role model who guides us, supports us, and makes us love learning more.
+
+I didn’t only benefit from you technically and understood Flutter in a clear and practical way, but I also learned how to face challenges and search for solutions by myself.
+
+I also learned from you in a religious and personal way. Your words and advice gave us positive energy and made every session light, enjoyable, and full of benefit.
+
+We really appreciate all your attempts to make the information simple and clear, and for always checking that we truly understood. This shows your sincerity and care for us.
+
+Your patience, encouragement, and style of teaching made us believe that we can achieve our dreams. That is something I will never forget.
+
+I am so thankful that I had the chance to learn from you, and Insha’Allah I will apply everything I learned in my next steps. May Allah reward you, bless your efforts, and grant you more success.""",
   ),
   Person(
     name: "Mona Zaki",
@@ -118,6 +133,6 @@ Best regards,
   Person(
     name: 'Youssef Algmmal',
     message: """
-حضرتك كنت لينا اخ قبل متكون instructor ، واحنا سعداء جدا ان NTI وفرتلنا بشمهندس زى حضرتك ♥"""
+حضرتك كنت لينا اخ قبل متكون instructor ، واحنا سعداء جدا ان NTI وفرتلنا بشمهندس زى حضرتك ♥""",
   ),
 ];
