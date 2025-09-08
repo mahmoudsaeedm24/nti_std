@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:m_emad/core/color_pallete.dart';
+import 'package:m_emad/core/extensions/num_extension.dart';
 
 import 'data_source.dart';
 import 'details_screen.dart';
@@ -6,11 +8,10 @@ import 'details_screen.dart';
 class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key});
 
-  
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: const Text("GridView Names")),
+      appBar: AppBar(title: const Text("NTI Trainees - Batch 2, 8-2025")),
       body: GridView.builder(
         padding: const EdgeInsets.all(10),
         gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
@@ -32,13 +33,17 @@ class HomeScreen extends StatelessWidget {
             },
             child: Container(
               decoration: BoxDecoration(
-                color: Colors.blueAccent,
-                borderRadius: BorderRadius.circular(12),
+                color: AppColors.getColor(
+                  colorPallte:
+                      ColorPallete.values[(index) % ColorPallete.values.length],
+                ),
+
+                borderRadius: BorderRadius.circular(16),
               ),
               alignment: Alignment.center,
               child: Text(
                 persons[index].name,
-                style: const TextStyle(fontSize: 18, color: Colors.white),
+                style: TextStyle(fontSize: 3.sp, color: Colors.white),
               ),
             ),
           );

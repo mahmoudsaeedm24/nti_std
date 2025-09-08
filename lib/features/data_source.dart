@@ -6,9 +6,7 @@ final List<Person> persons = [
   Person(
     name: "Mahmoud saeed",
     message: """ ✨ A Message of Gratitude and Appreciation ✨
-I would like to sincerely thank Eng. Mohamed Emad for his tremendous effort in teaching us and for never falling short in any aspect. He truly gave his best and even more 🌹.
-I deeply appreciate his high morals, respectful attitude towards each one of us, and his continuous encouragement to always give our maximum effort. Most importantly, his constant reminders to keep God in our hearts ❤️.
-May Allah reward him abundantly, bless his knowledge, and place all his efforts in the scale of his good,
+I would like to sincerely thank Eng/ Mohamed Emad for his tremendous effort in teaching us and for never falling short in any aspect. He truly gave his best and even more 🌹.I deeply appreciate his high morals, respectful attitude towards each one of us, and his continuous encouragement to always give our maximum effort. Most importantly, his constant reminders to keep God in our hearts ❤️.May Allah reward him abundantly, bless his knowledge, and place all his efforts in the scale of his good, 
 بارك الله فيك
 """,
     // image: null,
@@ -16,7 +14,7 @@ May Allah reward him abundantly, bless his knowledge, and place all his efforts 
   ),
   Person(
     name: "Rawan Magdy",
-    message: """Good morning Eng Mohamed Emad ,
+    message: """Good morning Eng/ Mohamed Emad ,
 I just wanted to take a moment to sincerely thank you, Your respectful attitude, the way you explain things, and how you treat us as students have really left a positive impact on me. Your teaching style is clear and inspiring, and I have truly benefited and learned a lot from you. The religious stories you shared reminded me of one of my old teachers who had the same respectful and kind approach. Your words and manner have touched me and left a good mark in my life. I really hope that one day I will have the chance to work with you in the future and I wish you good in your life and happiness always and success""",
   ),
   Person(
@@ -27,9 +25,7 @@ I just wanted to take a moment to sincerely thank you, Your respectful attitude,
   Person(
     name: "Gehad Wael",
     message:
-        """ ❤️With respect, Eng. Mohamed Emad, I want to express my heartfelt gratitude to you. You were not only a great instructor who explained the course with clarity,  but also a true mentor who shared life lessons that touched me deeply. Your respectful character and the values you always reflect—patience, ethics,
-   and perseverance—made a real difference in my perspective.
- ✨Personally, I used to focus only on the final result, but through your advice and stories I learned to be patient with myself, to trust the process, and to believe that not all great outcomes appear immediately. This lesson is something I will carry with me beyond the classroom.🌸I truly appreciate the time, effort, and sincerity you put into teaching us. I wish you continuous success, happiness, and blessings in your life.""",
+        """ ❤️With respect, Eng/ Mohamed Emad, I want to express my heartfelt gratitude to you. You were not only a great instructor who explained the course with clarity,  but also a true mentor who shared life lessons that touched me deeply. Your respectful character and the values you always reflect—patience, ethics, and perseverance—made a real difference in my perspective.✨Personally, I used to focus only on the final result, but through your advice and stories I learned to be patient with myself, to trust the process, and to believe that not all great outcomes appear immediately. This lesson is something I will carry with me beyond the classroom.🌸I truly appreciate the time, effort, and sincerity you put into teaching us. I wish you continuous success, happiness, and blessings in your life.""",
     screenColor: ColorPallete.def,
   ),
   Person(
@@ -40,38 +36,25 @@ I just wanted to take a moment to sincerely thank you, Your respectful attitude,
   Person(
     name: "Rozan Mohamed",
     message: """Behind every successful journey, there is a great mentor!
-
-We are truly blessed to have you, Eng. Mohamed Emad, as our instructor throughout this track. Your dedication, patience, and passion made the learning experience not only valuable but also inspiring.
- You guided us with knowledge, motivated us to do better, and supported us every step of the way. Thank you for your endless effort and for being such an inspiring mentor.""",
+We are truly blessed to have you, Eng/. Mohamed Emad, as our instructor throughout this track. Your dedication, patience, and passion made the learning experience not only valuable but also inspiring. You guided us with knowledge, motivated us to do better, and supported us every step of the way. Thank you for your endless effort and for being such an inspiring mentor.""",
   ),
   Person(
     name: "Mona Zaki",
     message:
-        """I would like to express my heartfelt gratitude to Eng. Mohamed Emad for his great effort, patience, and dedication during our Flutter training. 
-
-Your way of teaching was not only clear and practical but also inspiring,which made me more motivated to continue in this field.
-  I truly appreciate the time you gave us, your respect towards everyone, and your continuous encouragement to always do our best. 
-
-Thank you for being more than just an instructor, but also a real role model. May Allah bless you, increase your knowledge, and reward you abundantly for every effort you put into guiding us. 🌸
+        """I would like to express my heartfelt gratitude to Eng/. Mohamed Emad for his great effort, patience, and dedication during our Flutter training. Your way of teaching was not only clear and practical but also inspiring,which made me more motivated to continue in this field.I truly appreciate the time you gave us, your respect towards everyone, and your continuous encouragement to always do our best. Thank you for being more than just an instructor, but also a real role model. May Allah bless you, increase your knowledge, and reward you abundantly for every effort you put into guiding us. 🌸
 """,
     screenColor: ColorPallete.purple,
   ),
   Person(
     name: 'Aya Emad',
-    message: """Hello Eng. Mohamed Emad,
-
-Thank you for your constant support, guidance, and kindness. I truly appreciate your time, effort, and the life lessons you’ve shared, which have made a lasting impact on me.
-
-I especially value how you personally help and check on each student—it means a lot. Once I get my first job, you’ll be the first person I share it with, as you’ve greatly motivated and prepared me.
-
-Wishing you continued success, happiness, and all the wonderful things you deserve."""
+    message: """Hello Eng/ Mohamed Emad,
+Thank you for your constant support, guidance, and kindness. I truly appreciate your time, effort, and the life lessons you’ve shared, which have made a lasting impact on me.I especially value how you personally help and check on each student—it means a lot. Once I get my first job, you’ll be the first person I share it with, as you’ve greatly motivated and prepared me. Wishing you continued success, happiness, and all the wonderful things you deserve.""",
   ),
   Person(
     name: 'Heba Ashraf',
-    message: '''I’m truly grateful to Eng. Mohamed for teaching me Flutter.
-   His guidance, patience, and constant support made a real difference in my learning journey. 
-   I deeply appreciate the time and effort he put into helping me grow — I honestly wouldn’t have reached this point without him.
-    Thank you so much, Eng. Mohamed!''',
+    message:
+        '''I’m truly grateful to Eng/ Mohamed for teaching me Flutter.His guidance, patience, and constant support made a real difference in my learning journey.I deeply appreciate the time and effort he put into helping me grow — I honestly wouldn’t have reached this point without him.
+    Thank you so much, Eng/ Mohamed!''',
   ),
   Person(
     name: "Fatma Mohammed",
@@ -83,7 +66,7 @@ Wishing you continued success, happiness, and all the wonderful things you deser
   ),
   Person(
     name: "Faris Abozain",
-    message: """Dear [Eng:Mohmed Selim],
+    message: """Dear [Eng/:Mohmed Selim],
 I would like to express my sincere gratitude for your guidance, support, and dedication. Your way of teaching has inspired me and made the learning process both enjoyable and valuable. I truly appreciate the effort and time you put into helping us grow and achieve our goals.
 Thank you once again for being such an inspiring instructor.
 
@@ -93,7 +76,8 @@ Best regards,
     image: "faris".jpg,
   ),
   Person(
-      name: 'Hager', message: '''I would like to sincerely thank you for all your effort and dedication during our Flutter course. You were always respectful, kind, and supportive, which made the learning experience both enjoyable and valuable. I truly appreciate the knowledge you shared with us and the way you guided us with patience and professionalism.
-
-Wishing you continued success and all the best in your teaching journey.'''),
+    name: 'Hager',
+    message:
+        '''I would like to sincerely thank you for all your effort and dedication during our Flutter course. You were always respectful, kind, and supportive, which made the learning experience both enjoyable and valuable. I truly appreciate the knowledge you shared with us and the way you guided us with patience and professionalism.Wishing you continued success and all the best in your teaching journey.''',
+  ),
 ];

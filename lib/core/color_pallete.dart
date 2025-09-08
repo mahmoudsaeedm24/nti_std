@@ -1,16 +1,16 @@
 import 'package:flutter/material.dart';
 
-enum ColorPallete { pink, purple, lightGreen, cyan, lightBlue, deepOrange, def }
+enum ColorPallete { cyan, pink, lightGreen, lightBlue, deepOrange, def, purple }
 
 class AppColors {
   AppColors._();
+  static const Color cyan = Colors.cyan;
   static const Color pink = Colors.pink;
   static const Color purple = Color.fromARGB(255, 230, 210, 255);
   static const Color lightGreen = Colors.lightGreen;
-  static const Color cyan = Colors.cyan;
   static const Color lightBlue = Colors.lightBlue;
   static const Color deepOrange = Colors.deepOrangeAccent;
-  static const Color def = Colors.white54;
+  static const Color def = Color.fromARGB(218, 153, 152, 152);
 
   static Color getColor({required ColorPallete colorPallte}) {
     return switch (colorPallte.name) {

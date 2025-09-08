@@ -111,6 +111,7 @@ class _DetailsScreenState extends State<DetailsScreen>
       backgroundColor: AppColors.getColor(colorPallte: person.screenColor),
       appBar: AppBar(
         title: Text(person.name),
+        centerTitle: true,
         backgroundColor: AppColors.getColor(colorPallte: person.screenColor),
       ),
       body: SingleChildScrollView(
@@ -138,16 +139,25 @@ class _DetailsScreenState extends State<DetailsScreen>
                 const SizedBox(height: 20),
                 Text(
                   person.name,
+                  softWrap: false,
                   style: TextStyle(
+                    overflow: TextOverflow.fade,
                     fontSize: 12.sp,
                     fontWeight: FontWeight.bold,
                   ),
                 ),
                 const SizedBox(height: 10),
-                Text(
-                  person.message,
-                  style: TextStyle(fontSize: 4.sp),
-                  textAlign: TextAlign.center,
+                Column(
+                  children: person.message.split('.').map((p) {
+                    return Padding(
+                      padding: EdgeInsetsGeometry.only(bottom: 10),
+                      child: Text(
+                        '$p.',
+                        style: TextStyle(fontSize: 4.sp),
+                        textAlign: TextAlign.justify,
+                      ),
+                    );
+                  }).toList(),
                 ),
                 SizedBox(height: 9.h),
               ],
@@ -158,29 +168,34 @@ class _DetailsScreenState extends State<DetailsScreen>
       floatingActionButton: Container(
         decoration: BoxDecoration(
           borderRadius: BorderRadius.circular(16),
-          color: const Color.fromARGB(255, 1, 32, 47),
+          color: const Color.fromARGB(131, 1, 32, 47),
         ),
-        padding: EdgeInsets.symmetric(horizontal: 20, vertical: 10),
+        padding: EdgeInsets.symmetric(vertical: 5),
+        margin: EdgeInsets.symmetric(horizontal: 10),
         child: Row(
-          mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+          mainAxisAlignment: MainAxisAlignment.spaceAround,
           children: [
             FloatingActionButton(
+              mini: true,
               heroTag: "close",
               onPressed: () => Navigator.pop(context),
               child: const Icon(Icons.close),
             ),
             FloatingActionButton(
+              mini: true,
               heroTag: "previous",
               onPressed: () => previousPerson(),
               child: const Icon(Icons.arrow_back),
             ),
             FloatingActionButton(
+              mini: true,
               heroTag: "next",
               onPressed: () => nextPerson(),
               child: const Icon(Icons.arrow_forward),
             ),
 
             FloatingActionButton(
+              mini: true,
               heroTag: "playpause",
               onPressed: toggleTimer,
               child: Icon(isPlaying ? Icons.pause : Icons.play_arrow),
